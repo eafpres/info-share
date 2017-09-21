@@ -1,6 +1,6 @@
 # info-share
 #
-# this file shares a provfile of Blaine Bateman and his company EAF LLC
+# this file shares a profile of Blaine Bateman and his company EAF LLC.
 #
 Mr. Bateman leads EAF LLC, consulting in business analytics (including machine learning), strategy, market analysis, 
 and tech due diligence, having over 30 years int'l experience, as well as developing syndicated research and writing 
